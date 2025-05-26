@@ -14,9 +14,9 @@ export default function AboutPage() {
           />
         </div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-4xl lg:text-6xl font-bold mb-6">À propos d'AutoPrestige</h1>
+          <h1 className="text-4xl lg:text-6xl font-bold mb-6">À propos d&apos;AutoPrestige</h1>
           <p className="text-xl lg:text-2xl text-blue-100 max-w-3xl mx-auto">
-            Plus de 20 ans d'excellence dans la vente de véhicules haut de gamme
+            Plus de 20 ans d&apos;excellence dans la vente de véhicules haut de gamme
           </p>
         </div>
       </section>
@@ -32,19 +32,19 @@ export default function AboutPage() {
               <div className="space-y-4 text-gray-600">
                 <p>
                   Fondée en 2004, AutoPrestige est née de la passion de deux entrepreneurs 
-                  pour l'automobile d'exception. Nous avons débuté avec un showroom modeste 
-                  et une vision claire : offrir à nos clients une expérience d'achat unique 
-                  dans le monde de l'automobile de luxe.
+                  pour l&apos;automobile d&apos;exception. Nous avons débuté avec un showroom modeste 
+                  et une vision claire : offrir à nos clients une expérience d&apos;achat unique 
+                  dans le monde de l&apos;automobile de luxe.
                 </p>
                 <p>
                   Au fil des années, nous avons bâti notre réputation sur la qualité de nos 
-                  véhicules, l'expertise de notre équipe et un service client personnalisé. 
-                  Aujourd'hui, nous sommes fiers d'être reconnus comme l'un des concessionnaires 
+                  véhicules, l&apos;expertise de notre équipe et un service client personnalisé. 
+                  Aujourd&apos;hui, nous sommes fiers d&apos;être reconnus comme l&apos;un des concessionnaires 
                   automobiles les plus prestigieux de la région.
                 </p>
                 <p>
-                  Notre success repose sur nos valeurs fondamentales : l'intégrité, 
-                  l'excellence et la satisfaction client. Chaque véhicule que nous proposons 
+                  Notre success repose sur nos valeurs fondamentales : l&apos;intégrité, 
+                  l&apos;excellence et la satisfaction client. Chaque véhicule que nous proposons 
                   est minutieusement sélectionné et inspecté pour garantir la qualité 
                   exceptionnelle que nos clients attendent.
                 </p>
@@ -83,7 +83,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Excellence</h3>
               <p className="text-gray-600">
-                Nous nous engageons à offrir uniquement des véhicules d'exception, 
+                Nous nous engageons à offrir uniquement des véhicules d&apos;exception, 
                 rigoureusement sélectionnés pour leur qualité et leur performance.
               </p>
             </div>
@@ -96,7 +96,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Passion</h3>
               <p className="text-gray-600">
-                Notre passion pour l'automobile nous guide dans chaque conseil 
+                Notre passion pour l&apos;automobile nous guide dans chaque conseil 
                 et chaque service que nous offrons à nos clients.
               </p>
             </div>
@@ -134,19 +134,19 @@ export default function AboutPage() {
               {
                 name: "Pierre Dubois",
                 role: "Directeur Général",
-                experience: "25 ans d'expérience",
+                experience: "25 ans d&apos;expérience",
                 image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&auto=format&fit=crop&w=687&q=80"
               },
               {
                 name: "Marie Laurent",
                 role: "Responsable Commerciale",
-                experience: "15 ans d'expérience",
+                experience: "15 ans d&apos;expérience",
                 image: "https://images.unsplash.com/photo-1594736797933-d0d2e4eb1299?ixlib=rb-4.0.3&auto=format&fit=crop&w=687&q=80"
               },
               {
                 name: "Jean Martin",
                 role: "Expert Technique",
-                experience: "20 ans d'expérience",
+                experience: "20 ans d&apos;expérience",
                 image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&auto=format&fit=crop&w=687&q=80"
               }
             ].map((member, index) => (
@@ -180,7 +180,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div>
               <div className="text-4xl lg:text-5xl font-bold text-blue-300 mb-2">20+</div>
-              <p className="text-blue-100">Années d'expérience</p>
+              <p className="text-blue-100">Années d&apos;expérience</p>
             </div>
             <div>
               <div className="text-4xl lg:text-5xl font-bold text-blue-300 mb-2">5000+</div>

@@ -47,7 +47,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Nos Services d'Excellence
+                              Nos Services d&apos;Excellence
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Une gamme complète de services pour vous accompagner dans votre achat
@@ -102,7 +102,7 @@ export default function Home() {
               Véhicules en Vedette
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Découvrez notre sélection de véhicules d'exception
+              Découvrez notre sélection de véhicules d&apos;exception
             </p>
           </div>
           
@@ -171,7 +171,7 @@ export default function Home() {
             Prêt à trouver votre véhicule idéal ?
           </h2>
           <p className="text-xl mb-8 text-blue-100">
-            Notre équipe d'experts est là pour vous accompagner dans votre choix
+            Notre équipe d&apos;experts est là pour vous accompagner dans votre choix
           </p>
           <Link
             href="/contact"

@@ -10,14 +10,14 @@ export default function ServicesPage() {
       features: [
         "Taux préférentiels négociés",
         "Crédit auto jusqu'à 84 mois",
-        "Leasing avec option d'achat",
+        "Leasing avec option d&apos;achat",
         "Reprise de votre ancien véhicule",
         "Simulation en ligne gratuite"
       ]
     },
     {
       title: "Garantie Premium",
-      description: "Protection complète pour votre tranquillité d'esprit",
+      description: "Protection complète pour votre tranquillité d&apos;esprit",
       icon: "🛡️",
       features: [
         "Garantie constructeur étendue",
@@ -33,7 +33,7 @@ export default function ServicesPage() {
       icon: "🔧",
       features: [
         "Techniciens certifiés constructeur",
-        "Pièces détachées d'origine",
+        "Pièces détachées d&apos;origine",
         "Entretien préventif personnalisé",
         "Diagnostic électronique complet",
         "Carrosserie et peinture"
@@ -65,7 +65,7 @@ export default function ServicesPage() {
     },
     {
       title: "Assurance & Protection",
-      description: "Solutions d'assurance partenaires avantageuses",
+      description: "Solutions d&apos;assurance partenaires avantageuses",
       icon: "🏠",
       features: [
         "Partenariats avec assureurs premium",
@@ -132,7 +132,7 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Notre Processus d'Accompagnement
+              Notre Processus d&apos;Accompagnement
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               De votre première visite à la livraison, nous vous guidons à chaque étape
@@ -190,8 +190,8 @@ export default function ServicesPage() {
                 answer: "Nous étudions toutes les demandes de financement. Les conditions varient selon votre profil mais nous avons des solutions adaptées à chaque situation, y compris pour les jeunes conducteurs et les professions libérales."
               },
               {
-                question: "Proposez-vous une garantie sur les véhicules d'occasion ?",
-                answer: "Tous nos véhicules d'occasion bénéficient d'une garantie minimum de 6 mois, extensible jusqu'à 5 ans. Cette garantie couvre les principaux organes mécaniques et électroniques."
+                question: "Proposez-vous une garantie sur les véhicules d&apos;occasion ?",
+                answer: "Tous nos véhicules d&apos;occasion bénéficient d&apos;une garantie minimum de 6 mois, extensible jusqu&apos;à 5 ans. Cette garantie couvre les principaux organes mécaniques et électroniques."
               },
               {
                 question: "Est-il possible de faire reprendre mon véhicule actuel ?",
@@ -215,10 +215,10 @@ export default function ServicesPage() {
       <section className="bg-blue-900 text-white py-16">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl lg:text-4xl font-bold mb-4">
-            Besoin d'informations sur nos services ?
+            Besoin d&apos;informations sur nos services ?
           </h2>
           <p className="text-xl mb-8 text-blue-100">
-            Notre équipe d'experts est là pour répondre à toutes vos questions
+            Notre équipe d&apos;experts est là pour répondre à toutes vos questions
           </p>
           <div className="space-x-4">
             <Link

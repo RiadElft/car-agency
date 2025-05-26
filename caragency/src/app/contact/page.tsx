@@ -55,7 +55,7 @@ export default function ContactPage() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl lg:text-6xl font-bold mb-6">Contactez-nous</h1>
           <p className="text-xl lg:text-2xl text-blue-100 max-w-3xl mx-auto">
-            Notre équipe d'experts est là pour vous accompagner dans votre projet automobile
+            Notre équipe d&apos;experts est là pour vous accompagner dans votre projet automobile
           </p>
         </div>
       </section>
@@ -135,7 +135,7 @@ export default function ContactPage() {
                     className="w-full px-4 py-3 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
                   >
                     <option value="">Sélectionnez un sujet</option>
-                    <option value="achat">Achat d'un véhicule</option>
+                    <option value="achat">Achat d&apos;un véhicule</option>
                     <option value="financement">Demande de financement</option>
                     <option value="reprise">Reprise de véhicule</option>
                     <option value="service">Service après-vente</option>
@@ -222,7 +222,7 @@ export default function ContactPage() {
 
             {/* Business Hours */}
             <div className="mt-12 bg-gray-50 rounded-lg p-6">
-              <h3 className="text-lg font-semibold text-gray-900 mb-4">Horaires d'ouverture</h3>
+                                <h3 className="text-lg font-semibold text-gray-900 mb-4">Horaires d&apos;ouverture</h3>
               <div className="space-y-2">
                 <div className="flex justify-between">
                   <span className="text-gray-600">Lundi - Vendredi</span>
@@ -264,15 +264,15 @@ export default function ContactPage() {
       {/* Emergency Contact */}
       <section className="bg-blue-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h2 className="text-2xl font-bold mb-4">Besoin d'une assistance immédiate ?</h2>
+          <h2 className="text-2xl font-bold mb-4">Besoin d&apos;une assistance immédiate ?</h2>
           <p className="text-blue-100 mb-6">
-            Notre service d'urgence est disponible 24h/24 pour nos clients
+            Notre service d&apos;urgence est disponible 24h/24 pour nos clients
           </p>
           <a
             href="tel:+33123456789"
             className="bg-white text-blue-900 hover:bg-gray-100 px-6 py-3 rounded-lg font-semibold transition-colors duration-200"
           >
-            Appeler le service d'urgence
+            Appeler le service d&apos;urgence
           </a>
         </div>
       </section>
